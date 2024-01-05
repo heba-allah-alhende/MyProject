@@ -1,3 +1,3 @@
 # MyProject
 Learn Github
-## Project Nutes
+## Project Notes
